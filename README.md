@@ -1,4 +1,4 @@
-# Localhost-server-client-chatroom
+# Localhost-server-client-chatroom-for-Linux
 
 A aplicação cria um chatroom para comunicação entre diferentes usuários que se conectam a um server.
 
