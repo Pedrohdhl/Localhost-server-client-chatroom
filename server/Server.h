@@ -29,7 +29,7 @@ extern std::unordered_map<int, std::string> clients; //Criamos pares de threads 
 //Cada cliente tem sua thread e todos possuem usernames diferentes 
 extern std::mutex clients_mutex; 
 
-const int PORT = 7990; //IMPORTANTE: Se estiver tendo problemas com o bind, mude a porta!!!
+const int PORT = 7992; //IMPORTANTE: Se estiver tendo problemas com o bind, mude a porta!!!
 const int BUFFER_SIZE = 4096; //Tamanho maximo do buffer
 
 void broadcast_message(int sender_socket, const std::string& message);
