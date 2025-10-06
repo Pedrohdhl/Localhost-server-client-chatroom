@@ -18,5 +18,7 @@ Em seguida: ```client```
 
 Use outros terminais para conectar mais clientes.
 
+Para recompilar use ``` make clean ``` e use make novamente.
+
 
 
