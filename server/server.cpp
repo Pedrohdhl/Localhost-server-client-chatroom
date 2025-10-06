@@ -1,6 +1,8 @@
 #include "Server.h"
 #include <thread>
 
+std::unordered_map<int, std::string> clients;
+std::mutex clients_mutex;
 
 int main() {
 
