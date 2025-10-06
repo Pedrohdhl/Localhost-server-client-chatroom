@@ -5,7 +5,9 @@ A aplicação cria um chatroom para comunicação entre diferentes usuários que
 # Usage
 
 Primeiramente, rode o server com o Makefile.
+(recomendamos deixar o servidor e o cliente em pastas separadas)
 ``` make ```
+
 Para ativar o servidor:
 ``` ./server ```
 
