@@ -11,7 +11,12 @@ Primeiramente, rode o server com o Makefile.
 Para ativar o servidor:
 ``` ./server ```
 
+Para ativar um cliente:
+``` make```
 
-Depois, rode quantos clients quiser em outros terminais
+Em seguida: ```client```
+
+Use outros terminais para conectar mais clientes.
+
 
 
