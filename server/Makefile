@@ -2,8 +2,8 @@ all: compile run
 
 
 compile:
-        gcc -c server.cpp
-        gcc -c handlers.cpp
+        g++ -c server.cpp
+        g++ -c handlers.cpp
 
 run:
         ./a.out
