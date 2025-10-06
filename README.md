@@ -14,7 +14,7 @@ Para ativar o servidor:
 Para ativar um cliente:
 ``` make```
 
-Em seguida: ```client```
+Em seguida: ```./client```
 
 Use outros terminais para conectar mais clientes.
 
