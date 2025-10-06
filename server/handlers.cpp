@@ -1,5 +1,6 @@
 #include "Server.h"
 
+
 //Essa funcao envia a mensagem para todos os clientes
 //Importante: Nao queremos que o autor da mensagem receba a propria mensagem.
 void broadcast_message(int sender_socket, const std::string& message) {
