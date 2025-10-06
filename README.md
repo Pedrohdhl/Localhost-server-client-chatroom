@@ -16,6 +16,8 @@ Para ativar um cliente:
 
 Em seguida: ```./client```
 
+Para encerrar a conexão do cliente com servidor use Ctrl+C
+
 Use outros terminais para conectar mais clientes.
 
 Para recompilar use ``` make clean ``` e use make novamente.
